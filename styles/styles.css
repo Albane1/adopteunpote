@@ -28,8 +28,15 @@ a{
 
 h2{
     color: white;
+    justify-content: center;
+    text-align: center;
 }
 
 p{
     color: white;
+}
+
+h3{
+    text-align: center;
+    margin-top: 5px;
 }

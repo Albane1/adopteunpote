@@ -1,0 +1,17 @@
+.middle{
+display: flex;
+justify-content: center;
+background-color: white;
+color: black;
+border-radius: 40px;
+margin-left: 150px;
+margin-top: 20px;
+margin-right: 25px;
+width: 75%;
+text-align: initial;
+}
+
+.middle img{
+    border-radius: 40px;
+    margin: 10px;
+}

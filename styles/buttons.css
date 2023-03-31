@@ -1,0 +1,13 @@
+.btn-blue{
+   
+    border: 1px solid deeppink;
+    color: white;
+    font-weight: bold;
+    border-radius: 7px;
+    padding: 16px;
+}
+.btn-blue:hover{ 
+    background-color: deeppink;
+    color: black;
+    transition: 0.4s;
+}

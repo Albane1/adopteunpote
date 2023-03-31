@@ -1,0 +1,35 @@
+@import "banner.css";
+@import "buttons.css";
+@import "cards.css";
+@import "footer.css";
+@import "fonts.css";
+@import "footer1.css";
+@import "middle.css";
+
+
+body{
+
+    margin: O;
+    background-color: rgb(30, 29, 29);
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 75%;
+    margin: 30px auto;
+}
+.container2{
+    width: 75%;
+    margin: 30px auto;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}
